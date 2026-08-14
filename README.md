@@ -1,492 +1,675 @@
-# 👋 Hi, I'm Pandarinath Mettu
+<div align="center">
 
-### 🚀 Full-Stack Developer | Java Developer | AI/ML Enthusiast | Problem Solver
+# ⚡ PANDARINATH METTU ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;AI%2FML+Enthusiast;300%2B+DSA+Problems+Solved;Building+AI-Powered+Applications" alt="Typing SVG" />
-</p>
+### `FULL-STACK DEVELOPER` • `JAVA` • `AI/ML` • `PROBLEM SOLVER`
 
-<p align="center">
-  <a href="https://github.com/pandarinath-mettu">
-    <img src="https://komarev.com/ghpvc/?username=pandarinath-mettu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/pandarinath-mettu?tab=followers">
-    <img src="https://img.shields.io/github/followers/pandarinath-mettu?label=Followers&style=flat&color=blue" alt="Followers"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Developer+Profile...;%3E+Java+%7C+DSA+%7C+Spring+Boot;%3E+Full-Stack+Developer;%3E+AI+%2F+ML+Explorer;%3E+300%2B+DSA+Problems+Solved;%3E+Building+The+Future+With+Code..." alt="Typing SVG" />
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=pandarinath-mettu&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
-I'm a **B.Tech Information Technology student** passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
+<img src="https://img.shields.io/github/followers/pandarinath-mettu?label=FOLLOWERS&style=for-the-badge&color=7F00FF" />
 
-* 🎓 B.Tech in **Information Technology**
-* 💻 Passionate about **Java, DSA & Full-Stack Development**
-* 🤖 Exploring **AI/ML, NLP & Deep Learning**
-* 🌐 Building applications using **React, Node.js & Spring Boot**
-* 🗄️ Working with **MySQL & SQL**
-* 🧠 Solved **300+ DSA problems**
-* 🏆 LeetCode Rating: **1464**
-* 🎯 Focused on becoming a strong **Software Developer**
-* 🚀 Interested in building **AI-powered real-world applications**
-* 🤝 Open to **internships, collaborations & software development opportunities**
+<img src="https://img.shields.io/github/stars/pandarinath-mettu?affiliations=OWNER&style=for-the-badge&label=STARS&color=FF00FF" />
+
+</div>
 
 ---
 
-## 🚀 My Current Focus
+```text id="5jsmkw"
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│             SYSTEM PROFILE :: PANDARINATH METTU              │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ROLE        → Full-Stack Developer                          │
+│  LANGUAGE    → Java                                          │
+│  BACKEND     → Spring Boot / Node.js                         │
+│  DATABASE    → MySQL                                         │
+│  AI          → Machine Learning / NLP / Deep Learning        │
+│  MISSION     → Build. Learn. Solve. Innovate.                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-```text
-🔥 Data Structures & Algorithms
-☕ Core Java
-🌱 Spring Boot
-🗄️ SQL & DBMS
-🌐 Backend Development
-🤖 Artificial Intelligence & Machine Learning
-🧠 System Design Fundamentals
-💼 Interview & Placement Preparation
+# 👨‍💻 `> whoami`
+
+```java id="st0edm"
+public class Pandarinath {
+
+    String role = "Software Developer";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Problem Solving"
+    };
+
+    String currentMission =
+        "Building scalable applications and mastering DSA.";
+
+    public void buildFuture() {
+        while (true) {
+            learn();
+            build();
+            solve();
+            improve();
+        }
+    }
+}
+```
+
+### 🧬 Developer DNA
+
+* 🎓 B.Tech — **Information Technology**
+* ☕ Primary Language — **Java**
+* 🧠 **300+ DSA problems solved**
+* ⚡ LeetCode Rating — **1464**
+* 🌱 Exploring — **Spring Boot & Backend Engineering**
+* 🤖 Interested in — **AI / ML / NLP / Deep Learning**
+* 🗄️ Database — **MySQL / SQL**
+* 🏗️ Learning — **System Design**
+* 🚀 Building — **Full-Stack & AI-powered applications**
+* 🎯 Mission — **Become a strong Software Engineer**
+
+---
+
+# ⚡ `> current_focus.exe`
+
+```text id="b7g6b3"
+[████████████████████████████████████████] JAVA
+[██████████████████████████████████░░░░░░] DSA
+[████████████████████████████░░░░░░░░░░░░] SPRING BOOT
+[██████████████████████████████░░░░░░░░░░] SQL / DBMS
+[████████████████████████░░░░░░░░░░░░░░░░] SYSTEM DESIGN
+[██████████████████████████░░░░░░░░░░░░░░] AI / ML
+```
+
+### Current Learning Pipeline
+
+```text id="ez1xc5"
+JAVA
+ │
+ ▼
+DATA STRUCTURES & ALGORITHMS
+ │
+ ▼
+SPRING BOOT
+ │
+ ▼
+REST APIs
+ │
+ ▼
+MYSQL + DBMS
+ │
+ ▼
+SYSTEM DESIGN
+ │
+ ▼
+SCALABLE BACKEND DEVELOPMENT
+ │
+ ▼
+AI-POWERED APPLICATIONS
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🧰 `> tech_stack --list`
 
-## 💻 Programming Languages
+## ⚙️ Core Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=mysql&logoColor=black"/>
+
 </p>
 
-## 🌐 Frontend Development
+## 🌐 Frontend Matrix
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
 </p>
 
-## ⚙️ Backend Development
+## ⚙️ Backend Systems
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/JDBC-7F00FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 </p>
 
-## 🗄️ Databases
+## 🗄️ Database Layer
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
 </p>
 
-## 🤖 AI / Machine Learning
+## 🤖 AI / ML Systems
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-00F7FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DEEP_LEARNING-7F00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-FF00FF?style=for-the-badge"/>
+
 </p>
 
-## 🧰 Tools & Platforms
+## 🛠️ Development Arsenal
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 `> projects --featured`
 
-## 📰 Digital News Portal
+## 🤖 01 // CAREBOT
 
-A full-stack web application for creating, managing and displaying digital news content.
+### `AI-Powered Medicine Information Assistant`
 
-### Tech Stack
+AI-powered conversational system designed to provide medicine-related information using Natural Language Processing.
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+```text id="w07n4u"
+SYSTEM        → Conversational AI
+LANGUAGE      → Python
+INTELLIGENCE  → NLP / Machine Learning
+INTERFACE     → Streamlit
+STATUS        → DEPLOYED / DEVELOPED
+```
 
-### Highlights
+**Core Modules**
 
-* 📰 News management
-* 🔐 User authentication
-* 🗄️ MySQL database integration
-* 🌐 REST APIs
+`Python` • `NLP` • `Machine Learning` • `Streamlit`
+
+### Capabilities
+
+* 🤖 Conversational interaction
+* 🧠 Natural Language Processing
+* 💊 Medicine information retrieval
+* 💬 Interactive chatbot interface
+* ⚡ Fast Streamlit-based UI
+
+[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/pandarinath-mettu/Care_bot)
+
+---
+
+## 📰 02 // DIGITAL NEWS PORTAL
+
+### `Full-Stack News Management Platform`
+
+A full-stack platform designed to manage, organize and deliver digital news content.
+
+```text id="mpmsuk"
+FRONTEND  → HTML / CSS / JavaScript
+BACKEND   → Node.js / Express.js
+DATABASE  → MySQL
+TYPE      → Full-Stack Web Application
+```
+
+### Capabilities
+
+* 📰 Digital news management
+* 🔐 Authentication
+* 🗄️ Database integration
+* ⚡ Backend APIs
 * 📱 Responsive interface
 
-🔗 **Repository:**
-https://github.com/pandarinath-mettu
+[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-7F00FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pandarinath-mettu/Digital_news_portal)
 
 ---
 
-## 🤖 CareBot — AI Medicine Information Chatbot
+## 💰 03 // EXPENSE TRACKER
 
-An AI-powered chatbot developed using Natural Language Processing to provide medicine-related information.
+### `Personal Finance Management System`
 
-### Tech Stack
+Full-stack application for managing personal income, expenses and financial records.
 
-`Python` `NLP` `Machine Learning` `Streamlit`
+```text id="gltjpj"
+FRONTEND  → HTML / CSS / JavaScript
+BACKEND   → Node.js / Express.js
+DATABASE  → MySQL
+PURPOSE   → Personal Finance Management
+```
 
-### Highlights
+### Capabilities
 
-* 🤖 Conversational AI
-* 🧠 NLP-based processing
-* 💬 Interactive chatbot interface
-* 🌐 Streamlit web application
-
-🔗 **Repository:**
-https://github.com/pandarinath-mettu
-
----
-
-## 💰 Expense Tracker
-
-A full-stack application for managing personal income and expenses.
-
-### Tech Stack
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
-
-### Highlights
-
+* 💸 Expense management
 * 💰 Income tracking
-* 📊 Expense management
-* 🗄️ Database integration
-* 📈 Financial records
-* 🔐 Backend API integration
+* 🗄️ Persistent data storage
+* ⚙️ Backend integration
+* 📊 Financial record management
 
-🔗 **Repository:**
-https://github.com/pandarinath-mettu
+[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-FF00FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pandarinath-mettu/Expense_tracker)
 
 ---
 
-## 🎬 Movie Recommendation System
+## 🎬 04 // MOVIE RECOMMENDATION SYSTEM
 
-A Java-based recommendation system that recommends movies based on user preferences and stored movie data.
+### `Java-Based Recommendation Engine`
 
-### Tech Stack
+A Java application that uses collections and object-oriented programming to recommend movies based on user preferences.
 
-`Java` `OOP` `ArrayList` `HashMap`
+```text id="wugf6v"
+LANGUAGE    → Java
+CONCEPTS    → OOP
+STRUCTURES  → ArrayList / HashMap
+TYPE        → Recommendation System
+```
 
-### Highlights
+### Capabilities
 
 * 🎬 Movie recommendations
 * 🔎 Search functionality
 * 🧠 Java Collections
 * ⚡ Efficient data handling
+* ☕ Object-Oriented architecture
 
-🔗 **Repository:**
-https://github.com/pandarinath-mettu
+[![GitHub](https://img.shields.io/badge/EXPLORE_PROJECTS-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/pandarinath-mettu)
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 `> coding_profile --scan`
 
-## 🟠 LeetCode
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/pandarinathmettu/">
-    <img src="https://leetcard.jacoblin.cool/pandarinathmettu?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
+## ⚡ LEETCODE SYSTEM
 
-### 📊 Achievements
+<a href="https://leetcode.com/u/pandarinathmettu/">
+<img src="https://leetcard.jacoblin.cool/pandarinathmettu?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</a>
 
-* 🔥 **300+ DSA Problems Solved**
-* ⭐ **LeetCode Rating: 1464**
-* 🏅 50 Days Badge
-* 💻 Primary language: **Java**
+</div>
 
-### 📚 Topics I'm Practicing
-
-```text
-Arrays
-Strings
-Hashing
-Two Pointers
-Sliding Window
-Binary Search
-Stack
-Queue
-Linked List
-Recursion
-Trees
-Graphs
-Greedy
-Dynamic Programming
+```text id="o2hmqn"
+╔══════════════════════════════════════╗
+║       CODING PERFORMANCE DATA        ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  DSA Problems       → 300+           ║
+║  LeetCode Rating    → 1464           ║
+║  Primary Language   → Java           ║
+║  Badge              → 50 Days 2025   ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
-🔗 **LeetCode:**
-https://leetcode.com/u/pandarinathmettu/
+### Algorithms Arsenal
+
+`Arrays`
+`Strings`
+`Hashing`
+`Two Pointers`
+`Sliding Window`
+`Binary Search`
+`Stack`
+`Queue`
+`Linked List`
+`Recursion`
+`Trees`
+`Graphs`
+`Greedy`
+`Dynamic Programming`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE_PROFILE-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/pandarinathmettu/)
+
+</div>
 
 ---
 
-# 🟢 GeeksforGeeks
+# 🟢 `> gfg --stats`
 
-* 💻 **110+ Problems Solved**
-* 🏆 Coding Score: **355**
-* 🎓 Institute Rank: **413**
+```text id="bqlr66"
+GeeksforGeeks
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandarinath-mettu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandarinath-mettu&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
+Problems Solved  → 110+
+Coding Score     → 355
+Institute Rank   → 413
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 💼 `> experience.log`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pandarinath-mettu&theme=radical&hide_border=true" />
-</p>
+## `[01]` 🤖 AI / ML INTERN
 
----
+### AICTE
 
-# 📈 GitHub Activity
+```text id="h9xq2x"
+DOMAIN       → Artificial Intelligence & Machine Learning
+LANGUAGE     → Python
+FRAMEWORK    → TensorFlow
+EXPERIENCE   → ML Models / Data Visualization
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandarinath-mettu&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 💼 Experience
-
-## 🤖 AI/ML Intern
-
-### Edunet Foundation — TechSaksham Initiative
-
-Worked on Artificial Intelligence and Machine Learning concepts and developed AI-based applications.
-
-### Technologies
-
-`Python` `Machine Learning` `TensorFlow` `Data Visualization`
+Worked on practical Artificial Intelligence and Machine Learning concepts and implemented ML-based solutions.
 
 ---
 
-## 🤖 AI Intern
+## `[02]` 🧠 AI INTERN
 
-### AICTE / Edunet Foundation
+### Edunet Foundation — TechSaksham
 
-Worked on an AI/ML internship focused on practical implementation of machine learning concepts.
+```text id="qlzk9d"
+PROJECT     → CareBot
+DOMAIN      → Artificial Intelligence
+TECH        → Python / NLP / Streamlit
+MISSION     → AI-powered medicine information assistant
+```
 
-### Technologies
-
-`Python` `AI` `Machine Learning` `TensorFlow`
+Developed **CareBot**, an NLP-powered conversational application for providing medicine-related information.
 
 ---
 
-## 🌐 Full-Stack Developer Intern
+## `[03]` 🌐 FULL-STACK DEVELOPER INTERN
 
 ### Octacomm Technologies Pvt. Ltd.
 
-Developed a **Digital News Portal** with frontend, backend and database integration.
+```text id="vbbal4"
+PROJECT     → Digital News Portal
+FRONTEND    → HTML / CSS / JavaScript
+BACKEND     → Node.js
+DATABASE    → MySQL
+```
 
-### Technologies
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
-
----
-
-# 🏆 Certifications & Achievements
-
-🎓 **NPTEL — Programming in Java | Elite Certificate**
-
-🤖 **AI/ML Internship — AICTE**
-
-🌐 **Full-Stack Developer Internship — Octacomm Technologies**
-
-📊 **Power BI Internship — AICTE / Shell / Edunet Foundation**
-
-💻 **300+ LeetCode Problems Solved**
-
-🧠 **110+ GeeksforGeeks Problems Solved**
-
-🏆 **Technoverse Hackathon 2026 Participant**
-
-🚀 Built multiple **AI, Full-Stack and Java projects**
+Developed a full-stack Digital News Portal with frontend, backend and database integration.
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 `> achievements.unlock()`
 
-```text
-☕ Core Java
-      ↓
-🧠 Advanced DSA
-      ↓
-🌱 Spring Boot
-      ↓
-🌐 REST APIs
-      ↓
-🗄️ SQL & DBMS
-      ↓
-🏗️ System Design
-      ↓
-🤖 Machine Learning
-      ↓
-🧠 Deep Learning
-      ↓
-🚀 AI-Powered Applications
+```text id="x1yzvm"
+╔════════════════════════════════════════════════════╗
+║                ACHIEVEMENTS UNLOCKED               ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🎓 NPTEL Programming in Java — ELITE              ║
+║                                                    ║
+║  🧠 300+ LeetCode Problems                         ║
+║                                                    ║
+║  💻 110+ GeeksforGeeks Problems                    ║
+║                                                    ║
+║  🤖 AI / ML Internship — AICTE                     ║
+║                                                    ║
+║  🧠 AI Internship — Edunet Foundation              ║
+║                                                    ║
+║  🌐 Full-Stack Internship — Octacomm               ║
+║                                                    ║
+║  📊 Power BI Internship                            ║
+║                                                    ║
+║  🏆 Technoverse Hackathon 2026                     ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 📊 `> github.analytics()`
 
-* [ ] 🚀 Master Data Structures & Algorithms
-* [ ] ☕ Become strong in Core Java
-* [ ] 🌱 Master Spring Boot
-* [ ] 🗄️ Improve SQL & DBMS
-* [ ] 🌐 Build production-ready REST APIs
-* [ ] 🏗️ Learn System Design Fundamentals
-* [ ] 🤖 Build advanced AI-powered applications
-* [ ] 💻 Contribute to Open Source
-* [ ] 🏆 Improve competitive programming skills
-* [ ] 💼 Secure a Software Developer role
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandarinath-mettu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandarinath-mettu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+
+</div>
 
 ---
 
-# 🧩 My Developer Journey
+# 🔥 `> streak --current`
 
-```text
-                         👨‍💻 SOFTWARE DEVELOPMENT
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-             ☕ Java             🌐 Web              🤖 AI/ML
-              │                   │                   │
-        ┌─────┴─────┐       ┌────┴────┐        ┌─────┴─────┐
-        │           │       │         │        │           │
-       DSA         OOP   Frontend   Backend    ML         NLP
-        │           │       │         │        │           │
-     LeetCode     Core    React     Spring   TensorFlow  Deep
-     GFG          Java    HTML      Boot     Scikit      Learning
-                           CSS       Node.js
-                                     │
-                                  REST APIs
-                                     │
-                                  MySQL
-```
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pandarinath-mettu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F7FF" />
+
+</div>
 
 ---
 
-# 📚 What I'm Improving
+# 📈 `> contribution_graph.render()`
 
-### 🧠 Computer Science
+<div align="center">
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Operating Systems
-* Computer Networks
-* System Design
-* SQL
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandarinath-mettu&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FF00FF&area=true&hide_border=true" />
 
-### 💻 Development
-
-* Java
-* Spring Boot
-* REST APIs
-* React
-* Node.js
-* MySQL
-* Git & GitHub
-
-### 🤖 AI
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Generative AI
-* AI-powered applications
+</div>
 
 ---
 
-# 📌 Repository Highlights
+# 📦 `> repositories --highlight`
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/pandarinath-mettu/Care_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Care_bot&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Care_bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" />
 </a>
 
 <a href="https://github.com/pandarinath-mettu/Digital_news_portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Digital_news_portal&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Digital_news_portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" />
 </a>
-
-</p>
-
-<p align="center">
 
 <a href="https://github.com/pandarinath-mettu/Expense_tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Expense_tracker&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandarinath-mettu&repo=Expense_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🗺️ `> developer_roadmap`
 
-<p align="center">
+```text id="5d8ywr"
+                           PANDARINATH.EXE
+                                  │
+                                  ▼
+                         SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+         ☕ JAVA              🌐 FULL STACK          🤖 AI / ML
+             │                    │                    │
+        ┌────┼────┐          ┌────┼─────┐        ┌────┼─────┐
+        │    │    │          │    │     │        │    │     │
+       OOP  DSA JDBC       React Node Spring   ML   NLP    DL
+             │                    │     Boot      │    │     │
+             ▼                    │      │        └────┼─────┘
+        LEETCODE                  │      ▼             │
+          + GFG                   │   REST APIs         ▼
+                                  │      │          AI SYSTEMS
+                                  ▼      ▼
+                               MySQL   BACKEND
+                                  │      │
+                                  └──┬───┘
+                                     ▼
+                               SYSTEM DESIGN
+                                     │
+                                     ▼
+                            SCALABLE APPLICATIONS
+                                     │
+                                     ▼
+                              SOFTWARE ENGINEER
+```
+
+---
+
+# 🛰️ `> mission_2026`
+
+```text id="7o5c7a"
+MISSION STATUS
+────────────────────────────────────────────────
+
+[ ACTIVE ]  Master Data Structures & Algorithms
+[ ACTIVE ]  Strengthen Core Java
+[ ACTIVE ]  Master SQL / DBMS
+[ ACTIVE ]  Learn Spring Boot
+[ ACTIVE ]  Build REST APIs
+[ QUEUED ]  Learn System Design
+[ QUEUED ]  Build scalable backend applications
+[ QUEUED ]  Build advanced AI projects
+[ QUEUED ]  Open-source contributions
+
+[ TARGET ]  SOFTWARE DEVELOPER ROLE 🚀
+```
+
+---
+
+# 🧠 `> knowledge_base`
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+### 💻 CS Fundamentals
+
+```text id="m2qj8u"
+DSA
+OOP
+DBMS
+Operating Systems
+Computer Networks
+SQL
+System Design
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙️ Engineering
+
+```text id="j3jyx9"
+Java
+Spring Boot
+REST APIs
+React
+Node.js
+MySQL
+Git / GitHub
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 Intelligence
+
+```text id="6zvchf"
+Python
+Machine Learning
+Deep Learning
+NLP
+TensorFlow
+OpenCV
+AI Applications
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 `> establish_connection`
+
+<div align="center">
+
+### 🤝 LET'S CONNECT
+
+<br/>
 
 <a href="mailto:pandarinathmettu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/pandarinath-mettu">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/pandarinathmettu/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-</p>
+📧 **[pandarinathmettu@gmail.com](mailto:pandarinathmettu@gmail.com)**
+
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+# 💭 `> developer_philosophy`
+
+```text id="y1hqvy"
+while (alive) {
+
+    learn();
+
+    build();
+
+    solveProblems();
+
+    improve();
+
+    repeat();
+
+}
+```
+
+<div align="center">
+
+### ⚡ BUILD • LEARN • SOLVE • INNOVATE ⚡
 
 > **"First make it work. Then make it right. Then make it fast."**
 
-I believe in learning by building, improving through consistency, and solving problems one step at a time.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Thanks+for+accessing+my+developer+profile...;%3E+Connection+established.;%3E+Let's+build+something+amazing.;%3E+System+ready+%E2%9A%A1" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br/>
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+### ⭐ Thanks for visiting my profile
 
-<p align="center">
-  <i>Let's build something amazing together 🚀</i>
-</p>
+**`< Let's build the future with code />`**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00FF&height=120&section=footer"/>
+
+</div>
